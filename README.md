@@ -9,7 +9,8 @@ Converts Images into several different variations of itself.
 
 ## Prerequisites
 
-[python]((https://www.python.org/downloads/))
+* [python](https://www.python.org/downloads/)
+* Dependencies in [Requirements.txt](https://github.com/BurkeBlaine1999/Python-Images/blob/master/requirements.txt)
 
 ## Running the tests
 
