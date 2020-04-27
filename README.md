@@ -5,7 +5,7 @@ Converts Images into several different variations of itself.
 ## Getting Started
 
 * Download the latest version of [python]((https://www.python.org/downloads/))
-* run pip install -r requirements.txt to download dependencies
+* run 'pip install -r requirements.txt' to download dependencies
 
 ## Prerequisites
 
